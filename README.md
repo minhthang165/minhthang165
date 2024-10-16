@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently studying in FPT University Da Nang
+- 🌱 I’m currently learning Java
+
+## 🛠 Technologies and Tools 🛠
+👉 Programming languages
+
