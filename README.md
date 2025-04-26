@@ -40,7 +40,7 @@ Here are some ideas to get you started:
         <br>
           <div align=center>
             <a href="#" title="minhthang165">
-              <img width="315" align="center" src="(https://github-readme-stats.vercel.app/api?username=minhthang165)(https://github.com/anuraghazra/github-readme-stats)" />
+              <img width="315" align="center" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhthang165)](https://github.com/anuraghazra/github-readme-stats)" />
             </a>
           </div>
       </td>
