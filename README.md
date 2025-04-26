@@ -40,7 +40,7 @@ Here are some ideas to get you started:
         <br>
           <div align=center>
             <a href="#" title="minhthang165">
-              <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhthang165&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+              <img width="315" align="center" src="(https://github-readme-stats.vercel.app/api?username=minhthang165)(https://github.com/anuraghazra/github-readme-stats)" />
             </a>
           </div>
       </td>
