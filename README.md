@@ -40,14 +40,14 @@ Here are some ideas to get you started:
         <br>
           <div align=center>
             <a href="#" title="minhthang165">
-              <img width="315" align="center" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhthang165)](https://github.com/anuraghazra/github-readme-stats)" />
+              <img width="315" align="center" src="https://github-readme-stats.vercel.app/api?username=minhthang165" />
             </a>
           </div>
       </td>
       <td>
         <div align=center>
           <a href="#" title="minhthang165">
-            <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=minhthang165&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+            <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=minhthang165&show_icons=true&theme=radical" />
           </a>
         </div>
       </td>
