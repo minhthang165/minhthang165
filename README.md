@@ -19,10 +19,8 @@ Here are some ideas to get you started:
 ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Nguyen Nhat Anh'
-	current_team = "ROV Team"
+ 	user = 'Nguyen Minh Thang'
 	hobbies = [
-				'Drawing',
 				'Watching Anime',
 				'Coding project'
 				'Being up all Night chasing that ONE BUG...'
@@ -34,9 +32,22 @@ Here are some ideas to get you started:
 	def Ambitions():
 		LearnEnglish_Japanese()
 		GetMoney()
-		FindMyLove()
 		FinishMyProject()
  ```
+
+ <h2 align="center">📫 How to find me:</h2>
+
+<p align="center">
+  <a href="https://www.facebook.com/thangnm.0505" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  </a> 
+  <a href="https://github.com/minhthang165" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="mailto:nguyenminhthang.dev@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
+</p>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
