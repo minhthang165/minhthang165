@@ -40,7 +40,7 @@ Here are some ideas to get you started:
         <br>
           <div align=center>
             <a href="#" title="minhthang165">
-              <img width="315" align="center" src="https://github-readme-stats.vercel.app/api?username=minhthang165" />
+              <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhthang165&layout=compact" />
             </a>
           </div>
       </td>
