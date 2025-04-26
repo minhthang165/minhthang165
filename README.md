@@ -16,6 +16,27 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently studying in [FPT University Da Nang](https://facebook.com/daihocfptdanang)
 - 🌱 I'm a self taught Software Engineer Developer.
+## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Nguyen Nhat Anh'
+	current_team = "ROV Team"
+	hobbies = [
+				'Drawing',
+				'Watching Anime',
+				'Coding project'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return DaNang_VietNam()
+	
+	def Ambitions():
+		LearnEnglish_Japanese()
+		GetMoney()
+		FindMyLove()
+		FinishMyProject()
+ ```
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
