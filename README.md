@@ -1,4 +1,6 @@
 <h2 align="center">Hi 👋, I am ThangNM  </h2>
+
+
 - 🔭 I’m currently studying in [FPT University Da Nang](https://facebook.com/daihocfptdanang)
 - 🌱 I'm a self taught Software Engineer Developer.
 ## Who am I?
@@ -70,4 +72,3 @@
       </td>
     </tr>
   </table>
-
