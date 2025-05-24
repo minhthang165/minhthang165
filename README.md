@@ -1,9 +1,4 @@
 <h2 align="center">Hi 👋, I am ThangNM  </h2>
-<p align="center"> 
-	<img src="https://github.com/minhthang165/minhthang165/blob/e62fef34491f3306c2b1f290cac4bb746984c575/ThangNM.jpg" alt="ThangNM" width="250" height="300" /> 
-	<img src="https://github.com/AnhNN11/AnhNN11/blob/main/imgs/coding.gif" alt="ThangNM" width="450" height="300" /> 
-</p>
-
 - 🔭 I’m currently studying in [FPT University Da Nang](https://facebook.com/daihocfptdanang)
 - 🌱 I'm a self taught Software Engineer Developer.
 ## Who am I?
